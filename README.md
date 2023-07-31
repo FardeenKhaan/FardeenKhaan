@@ -1,4 +1,4 @@
-
+![logo](https://github.com/FardeenKhaan/FardeenKhaan/blob/main/Profile.JPG)
 
 <h1 align="center">Hi 👋, I'm Fardeen khan</h1>
 <h3 align="center">A passionate flutter enthusiast from Pakistan</h3>
